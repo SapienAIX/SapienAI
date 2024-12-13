@@ -1,3 +1,7 @@
+
+Here's the README.md content enclosed in a code block for easy copying:
+
+markdown
 # SapienAI - Nexus of Mankind
 
 **SapienAI** - Bridging AI with the study of human sapiens across biology, science, technology, and more.
@@ -14,7 +18,7 @@ SapienAI is an ambitious project dedicated to leveraging artificial intelligence
 
 ## Solana Blockchain Expansion Research
 
-The crypto side was optional and simply to push the idea further to fund the research of SapienAI
+The crypto side was optional and simply to push the idea further to fund the research of SapienAI:
 
 - **Name:** SapienAI
 - **Token:** $SAPIEN
@@ -59,15 +63,16 @@ python SapienAIAgent/test_sapienai.py
 
 Ensure you have the necessary environment set up for running AI models.
 
-Community & Support
-Join our Telegram (t.me/SapienAIX) for discussions, updates, and collaboration.
-Follow us on X (@SapienAIX) for the latest news.
-Check out our Links (linktr.ee/SapienAIX) for more info on our mission and progress.
+## Community & Support
+
+- Join our [Telegram](https://t.me/SapienAIX) for discussions, updates, and collaboration.
+- Follow us on [X](https://x.com/SapienAIX) for the latest news.
+- Check out our [Links](https://linktr.ee/SapienAIX) for more info on our mission and progress.
 
 License
 This project is licensed under the MIT License (LICENSE.md).
 
-Acknowledgements
+## Acknowledgements
 We thank the open-source community and researchers who contribute to the collective knowledge that this project builds upon. Special thanks to the Solana community for their support in tokenizing this vision.
 
 Feel free to explore, contribute, and join us in this journey to understand and enhance the human experience through AI!
