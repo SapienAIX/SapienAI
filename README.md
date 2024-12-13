@@ -1,7 +1,3 @@
-
-Here's the README.md content enclosed in a code block for easy copying:
-
-markdown
 # SapienAI - Nexus of Mankind
 
 **SapienAI** - Bridging AI with the study of human sapiens across biology, science, technology, and more.
