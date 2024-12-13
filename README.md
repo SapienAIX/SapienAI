@@ -28,15 +28,16 @@ We welcome contributions from researchers, developers, and enthusiasts:
 - **Research Contributions:** Submit ideas, data, or hypotheses through our community channels.
 - **Code Contributions:**
   - Fork the repository.
-  - Create your SapienAIAgent branch (`git checkout -b SapienAIX/SapienAIAgent`).
-  - Commit your changes (`git commit -m 'Add some SapienAIAgent'`).
-  - Push to the branch (`git push origin SapienAIX/SapienAIAgent`).
+  - Create your SapienAIAgents branch (`git checkout -b SapienAIX/SapienAIAgents`).
+  - Commit your changes (`git commit -m 'Add some SapienAIAgents'`).
+  - Push to the branch (`git push origin SapienAIX/SapienAIAgents`).
   - Open a Pull Request.
 
 ## Code Structure
 
 - `/SapienAI/`: The main branch project infos.
-- `/SapienAIAgents/`: Contains scripts and models for AI agents.
+- `/SapienAIAgent/`: Contains scripts of the main AI agent.
+- `/SapienAIAgents/`: Contains scripts and models for more AI agents.
 - `/SapienAITools/`: Development of specialized AI tools.
 - `/SapienAIResearch/`: Documentation and data related to ongoing research projects.
 - `/SapienDocs/`: Detailed documentation, whitepapers, and research findings.
