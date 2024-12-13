@@ -40,7 +40,7 @@ We welcome contributions from researchers, developers, and enthusiasts:
 - `/SapienAIAgents/`: Contains scripts and models for more AI agents.
 - `/SapienAITools/`: Development of specialized AI tools.
 - `/SapienAIResearch/`: Documentation and data related to ongoing research projects.
-- `/SapienDocs/`: Detailed documentation, whitepapers, and research findings.
+- `/SapienAIDocs/`: Detailed documentation, whitepapers, and research findings.
 
 ## How to Run
 
